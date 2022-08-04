@@ -961,7 +961,7 @@ Banner Style
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    /* padding: 226px 0px 120px 0px; */
+    padding: 226px 0px 120px 0px;
     position: relative;
     overflow: hidden;
 }
@@ -2210,11 +2210,4 @@ responsive
 
 .row {
     align-items: center;
-    --bs-gutter-x: 1.5rem;
-    --bs-gutter-y: 0;
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: calc(var(--bs-gutter-y) * -1);
-    margin-right: calc(var(--bs-gutter-x) * -.5);
-    margin-left: calc(var(--bs-gutter-x) * -.5);
 }
