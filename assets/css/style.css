@@ -961,7 +961,7 @@ Banner Style
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    padding: 226px 0px 120px 0px;
+    /* padding: 226px 0px 120px 0px; */
     position: relative;
     overflow: hidden;
 }
@@ -973,7 +973,7 @@ Banner Style
     position: absolute;
     left: 0;
     top: 60px;
-    width: 100%;
+    width: 262px;
     height: 625px;
     z-index: 1;
 }
